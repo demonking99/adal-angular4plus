@@ -1,0 +1,25 @@
+{
+  "name": "adal-angular4plus",
+  "version": "1.0.1",
+  "description": "ADAL wrapper for Angular4+.",
+  "main": "index.js",
+  "keywords": [
+    "adal",
+    "angular4+"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "@angular/common": "^5.0.0",
+    "@angular/core": "^5.0.0",
+    "@angular/http": "^5.0.0",
+    "@angular/platform-browser": "^5.0.0",
+    "adal-angular": "^1.0.15",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.14"
+  }
+}
